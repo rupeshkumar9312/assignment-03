@@ -1,0 +1,11 @@
+.items{
+    font: bold;
+    color: white;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+}
